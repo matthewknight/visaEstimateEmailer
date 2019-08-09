@@ -1,5 +1,5 @@
 # visaEstimateEmailer
-Script to email the current US Embassy wait time using Sendgrid
+Python script to email the user of the current US Embassy wait time using Sendgrid
 
 Currently placed on a Raspberry Pi Zero W with a daily Cronjob
 
